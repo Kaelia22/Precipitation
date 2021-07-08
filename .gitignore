@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+Precip/
+datasets/
+model_img/
+saved_model.pb
+variables/
