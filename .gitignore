@@ -4,3 +4,4 @@ datasets/
 model_img/
 saved_model.pb
 variables/
+original/
